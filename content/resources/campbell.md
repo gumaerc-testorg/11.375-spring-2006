@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 20280b59-3811-5073-3bfb-a8911841507b
 resourcetype: Document
 title: "Barriers to USGS scientists\u2019 participation in collaborative research\
   \ and decision-making"
