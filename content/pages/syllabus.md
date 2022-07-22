@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides an overview of the seminar.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 671fbcdf-4f63-0e84-1b59-3ae2c1581831
 ---
