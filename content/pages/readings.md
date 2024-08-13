@@ -83,7 +83,7 @@ Kemmis, D. "[Science's role in natural resource decisions](https://issues.org/p_
 
 McKinney, M., and W. Harmon. *The Western Confluence*. Washington, DC: Island Press, 2004, chapter 3, pp. 63-89. ISBN: 1559639636.
 
-Adler, P. S., R. C. Barrett, M. C. Bean, J. E. Birkoff, C. P. Ozawa, and E. B. Rudin. "Managing scientific and technical information in environmental cases: principles and practices for mediators and facilitators." 2000, pp. 5-21. ([PDF](http://www.mediate.com/articles/pdf/envir_wjc1.pdf))
+Adler, P. S., R. C. Barrett, M. C. Bean, J. E. Birkoff, C. P. Ozawa, and E. B. Rudin. "Managing scientific and technical information in environmental cases: principles and practices for mediators and facilitators." 2000, pp. 5-21. ([PDF](https://clu-in.org/conf/tio/negotiations4/ManagingScience-and-Technology-in-Complex-Cases-Adler-Bean-Birkoff-PCI.pdf))
 
 Beratan, Kathi, and Herman Karl. "Managing the Science-Policy Interface in a Complex and Contentious World - A Discussion." In editorial review.
 
