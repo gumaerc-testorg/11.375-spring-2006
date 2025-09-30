@@ -67,7 +67,7 @@ McKinney, M., and W. Harmon. *The Western Confluence*. Washington, DC: Island Pr
 
 Sarewitz, D., and R. A. Pielke, Jr. "Prediction in science and policy." In *Prediction: Science, Decision Making and the Future of the Nation*. Edited by D. Sarewitz, R. A. Pielke, Jr., and R. Byerly, Jr. Washington, DC: Island Press, 2000, pp. 11-21. ISBN: 1559637765.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262740227) Zachary, G. Pascal. *Endless Frontier*. Cambridge, MA: MIT Press, 1999, pp. 1-8 as background. ISBN: 9780262740227.
+{{% resource_link "45f2038a-da78-46be-804a-cd4f12758811" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Zachary, G. Pascal. *Endless Frontier*. Cambridge, MA: MIT Press, 1999, pp. 1-8 as background. ISBN: 9780262740227.
 
 Bush, V. "Science the endless frontier: A report to the President by Vannevar Bush, director of the Office of Scientific Research and Development." July 1945. (Skim this report as background)
 
@@ -79,11 +79,11 @@ The Role of Science in Environmental Policy-Making
 
 Bierbaum, R. "The role of science in federal policy development on a regional to global scale." *Estuaries* 25, no. 4B (2002): 878-885.
 
-Kemmis, D. "[Science's role in natural resource decisions](https://issues.org/p_kemmis/)." Issues in Science and Technology Online, Summer 2002.
+Kemmis, D. "{{% resource_link "a3bf84bd-00c8-470f-aa5c-6a1667bcfa15" "Science's role in natural resource decisions" %}}." Issues in Science and Technology Online, Summer 2002.
 
 McKinney, M., and W. Harmon. *The Western Confluence*. Washington, DC: Island Press, 2004, chapter 3, pp. 63-89. ISBN: 1559639636.
 
-Adler, P. S., R. C. Barrett, M. C. Bean, J. E. Birkoff, C. P. Ozawa, and E. B. Rudin. "Managing scientific and technical information in environmental cases: principles and practices for mediators and facilitators." 2000, pp. 5-21. ([PDF](https://clu-in.org/conf/tio/negotiations4/ManagingScience-and-Technology-in-Complex-Cases-Adler-Bean-Birkoff-PCI.pdf))
+Adler, P. S., R. C. Barrett, M. C. Bean, J. E. Birkoff, C. P. Ozawa, and E. B. Rudin. "Managing scientific and technical information in environmental cases: principles and practices for mediators and facilitators." 2000, pp. 5-21. ({{% resource_link "c49d1cd4-1607-46d7-8cea-56a5b4d6a0e7" "PDF" %}})
 
 Beratan, Kathi, and Herman Karl. "Managing the Science-Policy Interface in a Complex and Contentious World - A Discussion." In editorial review.
 
@@ -165,7 +165,7 @@ Gunderson, L. H., and C. S. Holling, eds. "Back to the future, ecosystem dynamic
 
 Smith, M. E. "Chaos, consensus and common sense." *The Ecologist* 25, no. 2/3: 80-85.
 
-Adler, P. S., and J. E. Birkhoff. [*Building Trust: When Knowledge from 'here' meets Knowledge from 'away'*](https://www.doi.gov/sites/doi.gov/files/uploads/building_trust_adler_birkhoff.pdf). The National Policy Consensus Center, Portland, OR, pp. 1-16. )
+Adler, P. S., and J. E. Birkhoff. {{% resource_link "81c50f23-d710-4489-b0d0-800fb4705914" "*Building Trust: When Knowledge from 'here' meets Knowledge from 'away'*" %}}. The National Policy Consensus Center, Portland, OR, pp. 1-16. )
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -199,7 +199,7 @@ Turner, C. E. "An experience in John Day, Oregon: the need for USGS agenda-less 
 
 Wondolleck, J. M., and S. L. Yaffee. "Ensuring Accountability." Chapter 13 in *Making Collaboration Work: Lessons from Innovation in Natural Resources Management*. Washington, DC: Island Press, 2000, pp. 229-245. ISBN: 1559634626.
 
-Lovich, Jeffrey E., and Theodore S. Melis. "The State of Natural and Cultural Resources in the Colorado River Ecosystem (SCORE) Report." *Grand Canyon Monitoring and Research Center*. USGS Southwest Biological Science Center, Flagstaff, AZ, 2005. ([PDF - 6.7 MB](http://sbsc.wr.usgs.gov/products/pdfs/P0151_10sep.pdf))
+Lovich, Jeffrey E., and Theodore S. Melis. "The State of Natural and Cultural Resources in the Colorado River Ecosystem (SCORE) Report." *Grand Canyon Monitoring and Research Center*. USGS Southwest Biological Science Center, Flagstaff, AZ, 2005. ({{% resource_link "3e57070c-d7dd-4d41-aaa7-46ced5e1f2eb" "PDF - 6.7 MB" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
